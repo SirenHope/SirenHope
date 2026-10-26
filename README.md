@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Sirenhope%22%2C%22name%22%3A%22Caleb%20Sliger%22%2C%22email%22%3A%22sligercaleb%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22i%20am%20an%20aspiring%20it%20professional%20currently%20training%20to%20be%20a%20professional%20career%20%40%20Mycomputercareer%20and%20i%20am%20looking%20to%20help%20in%20anyway%20i%20can%20with%20it%20and%20networking%20and%20looking%20for%20an%20entry%20level%20help%20desk%20passionate%20and%20egar%20to%20start%20helping%20in%20it%22%2C%22themeIdx%22%3A4%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Operating%20Systems%22%2C%22Troubleshooting%22%2C%22BIOS%2FUEFI%22%2C%22Storage%20Devices%22%2C%22Virtualization%22%2C%22Command%20Line%22%2C%22Peripheral%20Devices%22%2C%22Wi-Fi%22%2C%22Firewalls%22%2C%22DNS%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Sirenhope%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22foundational%20skills%20for%20it%20professional%22%2C%22issuer%22%3A%22MyCC%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FSirenHope%2FMycc-certificate%2Fblob%2Fmain%2FNet%2520I%2520Cert%25208.2026%2520190.pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/Sirenhope.png" width="150" style="border-radius:50%;border:4px solid #cf222e"/>
+<img src="https://github.com/Sirenhope.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Caleb Sliger
+# Hi there, I'm Your Name
 
-**Caleb Sliger**
+**Your Name**
 
 *ITSA Student*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40Sirenhope-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirenhope) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sligercaleb@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Sirenhope-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirenhope)
 
 </div>
 
@@ -18,15 +18,21 @@
 
 ## Professional Summary
 
-i am an aspiring it professional currently training to be a professional career @ Mycomputercareer and i am looking to help in anyway i can with it and networking and looking for an entry level help desk passionate and egar to start helping in it
+*Add your professional summary above to display it here.*
 
 ---
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-cf222e?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-cf222e?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-cf222e?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-cf222e?style=flat-square) ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-cf222e?style=flat-square) ![Storage Devices](https://img.shields.io/badge/Storage%20Devices-cf222e?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-cf222e?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-cf222e?style=flat-square) ![Peripheral Devices](https://img.shields.io/badge/Peripheral%20Devices-cf222e?style=flat-square)
+*Select skills in the builder to display them here.*
 
-🌐 Networking & Security: ![DNS](https://img.shields.io/badge/DNS-cf222e?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-cf222e?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-cf222e?style=flat-square)
+---
+
+## 🏆 Certifications & Digital Badges
+
+| Certification | Issuer | Verify | Badge |
+|---|---|---|---|
+| foundational skills for it professional | MyCC | [Verify](https://github.com/SirenHope/Mycc-certificate/blob/main/Net%20I%20Cert%208.2026%20190.pdf) | — |
 
 ---
 
